@@ -33,6 +33,8 @@ a {
   margin: 10px;
   background: beige;
   text-align: left; }
+  .course-container {
+    min-height: 100vh; }
   .course-title {
     color: white;
     background: #4fab53;
@@ -82,7 +84,8 @@ a {
   .hero-logo {
     position: absolute;
     margin-top: -45px;
-    width: 300px; }
+    width: 300px;
+    cursor: pointer; }
 
 .navigator {
   background-color: #c4da87;

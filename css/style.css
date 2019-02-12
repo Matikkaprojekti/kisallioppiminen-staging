@@ -241,6 +241,16 @@ a {
   display: inline;
   cursor: pointer;
   margin-right: 6px; }
+  .section-active {
+    color: #fff;
+    font-size: 20px;
+    padding: 10px 15px;
+    text-shadow: 1px 1px 1px #005357;
+    display: inline;
+    /* text-align: center; */
+    /* margin: 0 auto; */
+    margin-right: 6px;
+    background-color: #30A491; }
   .section:hover {
     background-color: #00747a;
     text-decoration-line: underline; }

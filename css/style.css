@@ -92,7 +92,8 @@ ul {
   margin-bottom: 50px; }
   .courseAdministrationPageContainer-heading {
     margin-left: 9%;
-    margin-right: 9%; }
+    margin-right: 9%;
+    margin-bottom: 5%; }
 
 .infoPageContainer {
   min-height: 100vh;
